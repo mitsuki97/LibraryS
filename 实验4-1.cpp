@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	int n,i,k;
+	int n,i,k，a;
 	cout<<"n=";
 	cin>>n;
 	cout<<"name|program design"<<endl;
